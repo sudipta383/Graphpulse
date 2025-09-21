@@ -23,6 +23,6 @@ The project demonstrates how to build a production-ready full-stack app with **R
 - **Infra:** Docker & Docker Compose
 - **Testing:** Jest, Supertest, graphql-ws
 
----
+
 
 
